@@ -1,6 +1,6 @@
-![gif](./2019_03_31_06_17_54.gif)
+[AbemaTV](https://abema.tv/) を無料でダウンロード・再生できるAndroidアプリ
 
-Amberは[AbemaTV](https://abema.tv/) をダウンロード・再生できるAndroidアプリです。
+![gif](./2019_03_31_06_17_54.gif)
 
 ## 多くのバグが残存しています
 
