@@ -1,4 +1,4 @@
-![gif](https://github.com/AmberAmeba/Android/blob/master/2019_03_31_06_17_54.gif)
+![gif](./2019_03_31_06_17_54.gif)
 
 Amberは[AbemaTV](https://abema.tv/) をダウンロード・再生できるAndroidアプリです。
 
