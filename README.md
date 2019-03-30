@@ -1,6 +1,6 @@
 [AbemaTV](https://abema.tv/) を無料でダウンロード・再生できるAndroidアプリ
 
-![gif](./2019_03_31_06_17_54.gif)
+![Imgur](https://i.imgur.com/8kEIDLX.gifv)
 
 ## 多くのバグが残存しています
 
