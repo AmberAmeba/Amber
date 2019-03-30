@@ -29,7 +29,7 @@ Amberは[AbemaTV](https://abema.tv/) をダウンロード・再生できるAndr
 
 ## アプリをダウンロード
 
-v0.1.1(2019/03/27リリース)
+[v0.1.1(2019/03/27リリース)](https://github.com/AmberAmeba/Android/releases/download/0.1.1/app-release.apk)
 前バージョンとの変更点
 
 - 軽微な不具合の修正
